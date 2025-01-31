@@ -1,3 +1,4 @@
+//just do it!
 
 var createCounter = function(n) 
 {
@@ -7,4 +8,3 @@ var createCounter = function(n)
         return n++;
     };
 };
-//just do it 
